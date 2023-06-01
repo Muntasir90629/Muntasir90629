@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 Working as an Executive in Data Insights at ADA , I have almost two years of experience in data science and a deep understanding of data analytics and visualization techniques. I specialize in using Python, machine learning, deep learning, Power BI, and AWS to turn data into actionable insights. My expertise lies in dealing with big data and leveraging it to drive business decisions.
+🔭 My name is Muntasir , I am working as an Executive in Data Insights at ADA , I have almost two years of experience in data science and a deep understanding of data analytics and visualization techniques. I specialize in using Python, machine learning, deep learning, Power BI, and AWS to turn data into actionable insights. My expertise lies in dealing with big data and leveraging it to drive business decisions.
 
 ⚡ In my current role, I perform data extraction on Apache Spark and Hadoop for campaign execution, conduct data mining on various sources to serve as data points for in-depth analysis, participate in product development, product analysis and onboarding, and develop end-to-end dashboards.
 
